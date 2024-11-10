@@ -1,0 +1,901 @@
+<html class="pixel-ratio-2 retina"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>邯郸市旺乾紧固件有限公司 - 螺丝小条广告 - 螺丝库|永年镀锌厂|永年恒创镀锌厂电话|永年物流|永年物流信息电话大全|河北铺电三轮送急货</title>
+<meta name="keywords" content="螺丝库|永年镀锌厂|永年恒创镀锌厂电话|永年物流|永年物流信息电话大全|">
+<meta name="description" content="螺丝库|永年镀锌厂|永年恒创镀锌厂电话|永年物流|永年物流信息电话大全|">
+<link rel="stylesheet" type="text/css" href="/skins/biaozhunjian/csstj/com.css">
+<link rel="stylesheet" type="text/css" href="/skins/biaozhunjian/csstj/style.css">
+<script type="text/javascript" src="/skins/biaozhunjian/js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="/skins/biaozhunjian/js/js.js"></script>
+<script type="text/javascript" src="/skins/biaozhunjian/js/jquery.SuperSlide.2.1.js"></script>
+<script src="/skins/biaozhunjian/js/jquery-weui.js" type="text/javascript" charset="UTF-8"></script>
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "Jee1prjbxXgbrCqH",ck: "Jee1prjbxXgbrCqH"})</script>
+<style>
+a.g_download {
+    position: absolute;
+    top: 0;
+    right: 20px;
+    bottom: 0;
+    height: 30px;
+    line-height: 30px;
+    margin: auto;
+    font-size: 15px;
+    text-align: center;
+    color: #FFF;
+    background-color: #FF00FF;
+    border-radius: 4px;
+    padding: 0 10px;
+}
+a.g_download2 {
+    position: absolute;
+    top: 0;
+    right: 35%;
+    bottom: 0;
+    height: 30px;
+    line-height: 30px;
+    margin: auto;
+    font-size: 15px;
+    text-align: center;
+    color: #FFF;
+    background-color: #FF00FF;
+    border-radius: 4px;
+    padding: 0 10px;
+}
+</style>
+<link type="text/css" rel="styleSheet" id="layermcss"><style type="text/css">.danmu{overflow:hidden;-webkit-user-select:none;-moz-user-select:none;user-select:none;-ms-user-select:none}.danmu>*{position:absolute;white-space:nowrap}.danmu-switch{width:32px;height:20px;border-radius:100px;background-color:#ccc;-webkit-box-sizing:border-box;box-sizing:border-box;outline:none;cursor:pointer;position:relative;text-align:center;margin:10px auto}.danmu-switch.danmu-switch-active{padding-left:12px;background-color:#f85959}.danmu-switch span.txt{width:20px;height:20px;line-height:20px;text-align:center;display:block;border-radius:100px;background-color:#fff;-webkit-box-shadow:-2px 0 0 0 rgba(0, 0, 0, .04);box-shadow:-2px 0 0 0 rgba(0, 0, 0, .04);font-family:PingFangSC;font-size:10px;font-weight:500;color:#f44336}</style></head>
+<body><div style="width: 0px; height: 0px; position: absolute; z-index: 200000;"></div>
+<header>
+  <a class="fanhui" href="javascript:history.back(1)">&lt;返回</a>
+  <strong><a class="g_download2" href="https://www.luosiku.cn/plugin.php?id=xigua_wl&amp;ac=cate&amp;high=1&amp;cateid=976">查物流</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="g_download" href="https://www.luosiku.cn/plugin.php?id=xigua_sp&amp;ac=cate&amp;high=1&amp;high=1" target="_blank" style="color:#FFFFFF;">找螺丝</a></strong>
+</header>
+
+<div class="logo">
+<p><a href="/index.php?p=1823"><img style="border-radius: 10px; padding-bottom:5px;" src="/skins/biaozhunjian/images/qun001s.png" width="100%"></a></p>
+<p><a href="#"><img src="/upload/202404/20240423111300509.jpg" width="100%"></a></p>
+</div>
+<script>
+    var headerOn = 0;
+	function headerMin(){
+		if (!headerOn && $(window).scrollTop()>120){
+		    //$('#logoggdiv').addClass('min2');
+            $('#headdiv').addClass('min');
+            $("#get_top").fadeIn();
+            headerOn = 1;
+        }else if(headerOn && $(window).scrollTop()<120){
+           // $('#logoggdiv').removeClass("min2");
+            $('#headdiv').removeClass("min");
+            $("#get_top").fadeOut();
+            headerOn = 0;
+        }
+	}
+
+    $(window).on('scroll', function(){
+        headerMin();
+    })
+
+</script>
+<style>
+    .min {
+    background-color: #ffffff;
+    position:fixed;
+    top: 40;
+    left: 0;
+    right: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    z-index: 1000;
+}
+</style>
+<style>
+@media (min-width: 992px){
+    .min2 {
+    background-color: #ffffff;
+    position: absolute;
+    top: -13;
+    left: 0;
+    right: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    z-index: 1000;
+    }
+    .min {
+    background-color: #ffffff;
+    position:absolute;
+    top: 45;
+    left: 0;
+    right: 0;
+    padding-top: 5px;
+    z-index: 1000;
+}
+</style>
+<div class="search" id="headdiv">
+<div style="clear: both;"></div>
+<div class="bd">
+<a href="/?p=597&amp;a=searchindex" style="text-decoration:none;">
+<ul>
+    <div class="main_wap">
+
+        <div class="chose">
+            <input class="end" id="tjkeywords" type="text" style="font-size:22px;" name="tjkeywords" value="" placeholder="输入搜索产品名称">
+        </div>
+        <div class="grabble" style="float:right;"><input type="submit" value="搜索产品"></div>
+    </div>
+
+</ul>
+</a>
+
+</div>
+</div>
+<div style="clear: both;"></div>
+<link rel="stylesheet" href="https://www.luosiku.cn/source/plugin/xigua_hb/static/custom.css?jJD198">
+<style>
+.xwzx_nr{ text-align:center;}
+.xwzx_nr img { width:100%; height:auto;}
+
+
+.weui-switch-cp__input:checked~.weui-switch-cp__box, .weui-switch:checked{background-color:#33CC99!important;border-color:#33CC99!important}.weui-dialog__btn, .weui-navbar__item.weui_bar__item_on, .color-strong, .chip-row .toutiao, .weui-cells_checkbox .weui-check:checked+.weui-icon-checked:before, .weui-vcode-btn, .weui-dialog__btn_primary, .weui-cells_radio .weui-check:checked+.weui-icon-checked:before, .weui-icon-checked:before, .weui-agree__checkbox:checked:before, .weui-icon-success-circle, .weui-icon-success-no-circle, .weui-search-bar__cancel-btn, .weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon, .weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon>i, .weui-tabbar__item.weui-bar__item_on .weui-tabbar__label,.main_color,.weui-tabbar__item.weui-bar__item--on .weui-tabbar__label,.picker-button,.weui-form-preview__btn_primary {color:#33CC99!important}
+.weui_bar__item_on span:after,.weui-btn_primary, .weui-btn_primary:not(.weui-btn_disabled):active,.weui-btn_mini,.x_header, .main_bg,.position li.current, .position1 li.current,.post-tags .tag-on.weui-btn_default,.is-green, .weui-slider__track,.tsbtn_m{background-color:#0089e1!important;}.weui-navbar.filter_top .weui_bar__item_on i.icon-xiangxia,.weui-navbar.fix_float .weui_bar__item_on i.icon-xiangxia{border-color:#33CC99 transparent transparent transparent}.weui-count .weui-count__increase, .weui-count .weui-count__btn:before,.weui-count .weui-count__btn:after{background:#33CC99}.weui-count .weui-count__increase:after, .weui-count .weui-count__increase:before{background:#fff}.weui-count .weui-count__btn{border-color:#33CC99}.psleft4.main_bg{box-shadow: 0 0 .2rem #33CC99}
+.ui-list-mix-com {margin: 0 0 0px 0;padding: 5px;overflow:hidden;clear:both;position: relative;}
+.ui-list-mix-com .com-txt{overflow:hidden}
+.ui-list-mix-com .com-img {float:left;margin-right:4px;width: 120px;margin-top: 4px;height: 120px;line-height: 4.15rem;border-radius:10px;}
+.ui-list-mix-com .no-com-img{float:left;margin-right:4px;width: 4.15rem;background:#b3e5fc;text-align:center;height: 4.15rem;line-height: 4.15rem;font-weight:bold;font-size:14px;margin-top: 4px;}
+.ui-list-mix-com strong {display:block;line-height:20px;height: 40px;margin: 2px 0px 5px 3px;font-size: 15px;font-weight: 600;overflow: hidden;color:#000000;white-space: nowrap;}
+.ui-list-mix-com b {display:block;line-height:20px;height:20px;margin:0 10px;font-size:12px;font-weight:normal;color:#666666;overflow:hidden;text-overflow:ellipsis;}
+
+.ui-list-mix-com .vip {margin-right: 0;}
+.ui-list-mix-com .tvip {background: url('img/icon-tip.png') no-repeat left top;background-size: 18px 18px;padding-left: 18px;margin-right: 0;}
+
+.ui-list-mix-com .com-name{max-height: 25px;}
+.ui-list-mix-com p {margin:0;margin: 2px 0 4px 5px;height: 30px;line-height: 18px;font-size: 13px;color:#000000;}
+.ui-list-mix-com .com-business{height: 73px;overflow:hidden;margin-bottom:5px;}
+.ui-list-mix-com .com-business p{height: 18px;}
+.ui-list-mix-com p .ui-ico-area{padding-left: 18px;color:#666666;padding-right: 0;font-size: 13px;width: 93%;white-space: nowrap;-webkit-text-overflow: ellipsis;-moz-text-overflow: ellipsis;-o-text-overflow: ellipsis;-ms-text-overflow: ellipsis;text-overflow: ellipsis;overflow: hidden;height: 24px;line-height: 24px;}
+.ui-list-mix-com ul {box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;overflow:hidden;padding:0; margin:0 auto;}
+.ui-list-mix-com .xh-com-c {margin:0;padding: 0 10px 0 5px;line-height:24px;max-height:48px;overflow:hidden;color:#666666;font-size: 13px;}
+.ui-list-mix-com .xingji{float:left;display:inline-block;height: 15px;margin-top: 3px;width: 16px;}
+.ui-list-mix-com .xingji1{background:url('images/xingji-1.png') no-repeat;background-size:16px 15px;width: 18px;}
+.ui-list-mix-com .xingji2{background:url('images/xingji-2.png') no-repeat;background-size:32px 15px;width: 32px;}
+.ui-list-mix-com .xingji3{background:url('images/xingji-3.png') no-repeat;background-size: 48px 15px;width: 48px;}
+.ui-list-mix-com .xingji4{background:url('images/xingji-4.png') no-repeat;background-size: 64px 15px;width: 64px;}
+.ui-list-mix-com .xingji5{background:url('images/xingji-5.png') no-repeat;background-size: 80px 15px;width: 80px;}
+
+.ui-list-mix-com .com-hd{width:100%;height: auto;margin-top: 10px;}
+.ui-list-mix-com .com-dz{width: 73%;height: auto;display: block;/*white-space: nowrap;line-height: 24px;*/-webkit-text-overflow: ellipsis;-moz-text-overflow: ellipsis;-o-text-overflow: ellipsis;-ms-text-overflow: ellipsis;text-overflow: ellipsis;overflow: hidden;float: left;}
+.ui-list-mix-com .com-dz p{height: auto;line-height: 24px;padding: 0;padding-left: 0;white-space: nowrap;-webkit-text-overflow: ellipsis;-moz-text-overflow: ellipsis;-o-text-overflow: ellipsis;-ms-text-overflow: ellipsis;text-overflow: ellipsis;overflow: hidden;margin: 0;}
+.ui-list-mix-com p .ui-ico-dtdh{padding-left: 20px;color: #609e9b;padding-right: 0;font-size: 13px;width: 72%;white-space: nowrap;-webkit-text-overflow: ellipsis;-moz-text-overflow: ellipsis;-o-text-overflow: ellipsis;-ms-text-overflow: ellipsis;text-overflow: ellipsis;overflow: hidden;height: 24px;line-height: 24px;}
+.ui-list-mix-com p .ui-ico-dtdh a{color:#009688}
+.ui-list-mix-com .com-dh{float:right;height: 24px; width:26%;}
+.ui-list-mix-com.no-box{box-shadow: 0 4px 7px 0px rgb(226 226 226);padding-top:25px}
+.weui-btn_mini2 {background-color:#F00;font-size: .65rem;}
+
+
+</style>
+<div class="lgywm">
+<div class="xwzx_nr" style="color:#000000;">
+
+
+<div class="ui-list-mix-com">
+
+<div class="com-hd">
+<div class="com-dz openLocation">
+
+<div style="float:left; width:45%;"><a href="#section3"><span class="mb8 h30 weui-btn weui-btn_mini">浏览量:570</span></a></div>
+<div style="float:left; width:45%; margin-left:10px; display:none"><span class="mb8 h30 weui-btn weui-btn_mini">短信条数:13</span></div>
+<div style="float:left; width:45%; margin-left:10px;"><a class="mb8 h30 weui-btn weui-btn_mini" href="https://www.luosiqiyeku.com/?p=3070&amp;a=hongbao&amp;hbkeywords=邯郸市旺乾紧固件有限公司">红包记录</a></div>
+</div>
+<div class="com-dh"><a class="mb8 h30 weui-btn weui-btn_mini" href="https://www.luosiqiyeku.com/?p=2219&amp;wzid=40497&amp;tjkeywords=邯郸市旺乾紧固件有限公司">拔打记录</a></div>
+</div>
+
+<div class="com-hd">
+<div class="com-dz openLocation" style="width:45%">
+</div>
+<div class="com-dh" style="float:left;width:100%;margin-top:10px;"><a class="mb8 h30 weui-btn weui-btn_mini" style="background-color:#ff0000!important; font-size:16px" href="https://www.luosiqiyeku.com/?p=2424&amp;hbid=40497">在该企业调货成功后-平台补贴10元红包</a></div>
+</div>
+
+</div>
+
+<p style="text-align:center; padding-bottom:10px; padding-top:20px;">
+	<strong><span style="font-size:24px; color:#000000;">邯郸市旺乾紧固件有限公司</span></strong>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p style="text-align:center;padding-bottom:10px;">
+	<span style="font-size:24px;"><span style="font-size:16px;">主营：</span><span style="font-size:16px;"></span></span></p><p>
+	<span style="font-size:16px;">吊式减震器、阻尼减震器、空气减震器、声学减震器、橡胶减震、管道减震器、龙骨减震器，水泵台座等……</span><br>
+<span style="font-size:16px;">高强度斗型、鹅旦、四方、扇面、元宝、铰制孔、靠背销、T型栓、梅花丝等……</span><br>
+<span style="font-size:16px;">仓储式销售 专供市场调货</span><br>
+</p>
+<p></p>
+<p style="text-align:center; font-size:20px; color:#ff0000; font-weight:blod; padding-bottom:5px;">提示:点击号码可直接拔打联系商家</p>
+<p style="text-align:center;font-size:20px; color:#ff0000;padding-bottom:5px;">
+    电话:<a class="ajaxBut" href="tel:15630345600">15630345600<input type="hidden" name="cpid" value="40497"></a>
+</p>
+<p style="text-align:center;font-size:20px; color:#ff0000;padding-bottom:5px;">
+    手机:<a class="ajaxBut2" href="tel:18632015550">18632015550<input type="hidden" name="cpid4" value="40497"></a>    <a class="ajaxBut3" href="tel:0310-6610760">0310-6610760<input type="hidden" name="cpid3" value="40497"></a>
+</p>
+<p style="text-align:center;font-size:18px;padding-bottom:10px;">
+    地址:河北铺老商城农村信用社背面</p>
+
+<img src="/upload/202405/20240510102106724.jpg" width="100%" height="100%">
+
+<div style="margin-top:10px; margin-bottom:10px;">
+</div>
+
+<p style="
+    background: red;
+    padding: 10;
+">
+<img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171645_18891.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171646_66603.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171646_38001.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171646_60972.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171646_27842.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171647_64642.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171647_66810.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171647_62361.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171647_34794.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171647_59956.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171647_82804.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171648_74788.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171656_39212.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171656_52997.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171657_36049.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171657_33850.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171657_56113.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171657_46498.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171658_91355.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171658_62566.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171658_40675.jpg" alt="" style="text-wrap:wrap;"><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171658_88085.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240510/20240510101843_31654.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240510/20240510101843_12409.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240510/20240510101843_24604.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240510/20240510101844_94780.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240510/20240510101844_14590.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240510/20240510101844_10453.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240525/20240525142805_80482.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240525/20240525142805_20181.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240525/20240525142805_65459.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;">&nbsp;</span><img src="/bianjiqi/keditor/php/../../../upload/image/20240427/20240427171741_23848.jpg" alt="" style="text-wrap:wrap;"><span style="text-wrap:wrap;"></span></p>
+
+
+<p style="text-align:center; padding-bottom:10px; padding-top:30px;">
+	<strong><span style="font-size:24px; color:#000000;">邯郸市旺乾紧固件有限公司</span></strong>
+</p>
+
+
+
+<p style="text-align:center;padding-bottom:10px;" id="section3">
+	<span style="font-size:24px;"><span style="font-size:16px;">主营：</span><span style="font-size:16px;"></span></span></p><p>
+	<span style="font-size:16px;">吊式减震器、阻尼减震器、空气减震器、声学减震器、橡胶减震、管道减震器、龙骨减震器，水泵台座等……</span><br>
+<span style="font-size:16px;">高强度斗型、鹅旦、四方、扇面、元宝、铰制孔、靠背销、T型栓、梅花丝等……</span><br>
+<span style="font-size:16px;">仓储式销售 专供市场调货</span><br>
+</p>
+<p></p>
+<p style="text-align:center; font-size:20px; color:#ff0000; font-weight:blod; padding-bottom:5px;">提示:点击号码可直接拔打联系商家</p>
+<p style="text-align:center;font-size:20px; color:#ff0000;padding-bottom:5px;">
+    电话:<a class="ajaxBut" href="tel:15630345600">15630345600<input type="hidden" name="cpid" value="40497"></a>
+</p>
+<p style="text-align:center;font-size:20px; color:#ff0000;padding-bottom:5px;">
+    手机:<a class="ajaxBut2" href="tel:18632015550">18632015550<input type="hidden" name="cpid4" value="40497"></a>    <a class="ajaxBut3" href="tel:0310-6610760">0310-6610760<input type="hidden" name="cpid3" value="40497"></a>
+</p>
+<p style="text-align:center;font-size:18px;padding-bottom:10px;">
+    地址:河北铺老商城农村信用社背面</p>
+
+
+<br>
+						<span id="openLocation"></span>
+			</div>
+
+<div class="xwzx_nr" style="color:#000000;">
+<div class="ui-list-mix-com">
+<div class="com-hd">
+<div class="com-dz openLocation" style="width:45%">
+</div>
+<div class="com-dh" style="float:left;width:100%;"><a class="mb8 h30 weui-btn weui-btn_mini" style="background-color:#ff0000!important; font-size:16px" href="https://www.luosiqiyeku.com/?p=2424&amp;hbid=40497">在该企业调货成功后-平台补贴10元红包</a></div>
+</div>
+<div class="com-hd" style="margin-top:50px; clear:both;">
+<div class="com-dz openLocation">
+
+<div style="float:left; width:45%;"><a href="#section3"><span class="mb8 h30 weui-btn weui-btn_mini">浏览量:570</span></a></div>
+<div style="float:left; width:45%; margin-left:10px; display:none"><span class="mb8 h30 weui-btn weui-btn_mini">短信条数:13</span></div>
+<div style="float:left; width:45%; margin-left:10px;"><a class="mb8 h30 weui-btn weui-btn_mini" href="https://www.luosiqiyeku.com/?p=3070&amp;a=hongbao&amp;hbkeywords=邯郸市旺乾紧固件有限公司">红包记录</a></div>
+</div>
+<div class="com-dh"><a class="mb8 h30 weui-btn weui-btn_mini" href="https://www.luosiqiyeku.com/?p=2219&amp;tjkeywords=邯郸市旺乾紧固件有限公司">拔打记录</a></div>
+</div>
+
+
+
+</div>
+</div>
+<style>
+.infodd{ width:100%; font-size:12px; padding-left:5px; padding-right:5px; margin-top:20px}
+.fktitle { font-size:14px; line-height:30px; width:100%; height:auto;  }
+
+.fktitle .zwxian { float:left; width:35%; border-top:1px solid #d3d2d0; }
+.fktitle .zxfktext{ float:left; width:30%; line-height:0px; text-align:center; color:#d5781b}
+.fktitle .ybxian { float:right;width:35%; border-top:1px solid #d3d2d0}
+
+.fk_main { float:left; margin-right:10px; width:47%; margin-bottom:15px;}
+.fk_main .fk_touxian { float:left; margin-right:5px;}
+.fk_main .fk_rightfz { float:left;}
+.fk_main .fk_rightfz p { font-size:12px; line-height:20px;text-align:left;}
+.fk_main .fk_rightfz .fkname { color:#020103; font-weight:bold}
+.fk_main .fk_rightfz .fkriqi { color:#c3c3c3; }
+</style>
+<div class="infodd">
+    <div class="fktitle"><div class="zwxian">&nbsp;</div><div class="zxfktext">最新访客</div><div class="ybxian">&nbsp;</div></div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="/skins/biaozhunjian/images/wxtxmr.jpg" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">游客 &nbsp;<span style="color:#da7211; font-weight:bold"></span></p>
+	        <p class="fkriqi">2024-10-03 13:07:37</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/EhetbjdMqLia5WgmvL7BUpCpmaB3pMN3a4Hk6zo7f1Hw4BsjbQv5c9AlYhbqecDaR3mXZWcYGG4e730IL8xxmo9cgNXfZ0JEDnCJbgArwZC8/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">A-和烁 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-10-14 10:15:13</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/6BicoicicQqqTjnAlZOPBlVpJlAia7d7IEwFwyMbT0r8qq1r2icd0oCYqLf2S40QAM5UDN59prHHWTJY7bNKYS0UdtJGgLpVzslmZLSUm9TB31T0/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">连emo &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-11-08 15:15:25</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/xyjORojkoLzuFhK0IYZdqyUuq9X4fWycgBw7ickYicvK7bibJRsvjnW4cF19XwMohcR9jqgcG4BH1rNdLFdoagfgw/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">齐云通风 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-11-07 20:45:56</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/blDufqOHRpsozWWfEyMoPT7qa2GakyybqGWrIdZK48ups5P7Cia4DknFGRfLoibLO5n4mIp2jQBnlviaYM1q12QbAKPxDiasXrTxpBXADGo5NHI/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">白云，我 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-11-07 16:32:39</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eq1ruMMibic32ugkiaysEuMZWhZUdD0eyTPUp1RZW2bZ9yFzJXWm1r5fjrnPmicS5KmNCS5Ch6j2k7W6g/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">余生请多 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-11-06 15:32:31</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epOYFc4UqNxpjPicjh9uEn5ShiarePpnSk0U4Gc7fmjC2edsOVVmJ76dKBbzPBeGuTSMWBicf58dqcSA/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">紫涛塑料 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-11-05 12:37:08</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/ic02W2y84nnCaemHfqavqoM1SMicX8MWTicpuTicPfw9uFBZa3WcUsXquZziaDibNQwfzmd5CQVbAzWTs1zSjYAhibNicsUib1kNDiaklcYFnI8G8b8UU/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">（恒通五 &nbsp;<span style="color:#da7211; font-weight:bold">石家庄市</span></p>
+	        <p class="fkriqi">2024-11-01 07:17:41</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/e3eq0DtnTJGEHVNLjRUEwiaQicN1f8B54ibXZsicAsAFTTaJUExWDwVkDRcxjV1K9YyaUnYhs2LqRJ5u8sLr9CFpYMKbC2x7KdOHib7qYaL0DNZQ/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">大K &nbsp;<span style="color:#da7211; font-weight:bold">承德市</span></p>
+	        <p class="fkriqi">2024-10-30 15:35:33</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/LcdiccnKsSl0ktZcaVtKwWHxsJvGGnj8z1kSVYvL01V7g9EdKdropDEr3bI1JlRwjibdVnw3fibnuFex5yoEvzQdw/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">博莱格@ &nbsp;<span style="color:#da7211; font-weight:bold">邢台市</span></p>
+	        <p class="fkriqi">2024-10-28 14:46:51</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ2Oe4ZsVavJuu9PrlYvMRIScFn9libBpPsZfM4XI4PXwzBSes0cdfCECk0tumldic0icDVLe3SL2eRg/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">白云 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-10-25 14:28:11</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTKr3ZPRg8ECLia5s7Siay1oa6QLRWRVPobMBmn2hbPiaZYSqYWo6KibnnWb0z2JMGqcEB4OyNDNluIP1A/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">李凤环 &nbsp;<span style="color:#da7211; font-weight:bold">唐山市</span></p>
+	        <p class="fkriqi">2024-10-20 17:25:14</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJnBwRhLDDDUiciaBYLfEIia77mAuwDCZkpl734XpPib5vLNSuxj8Vjk8zm2xgLRBiaJfXzNVp9k9xVSibw/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">A武哲高 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-10-20 11:15:41</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/SpcCrdwMXJTRuU6ORKiaFey0q3DaWTfwHMcIfcpUvnsyesRAS82Zia510XckoI4Ve38mdIloJTThx4Y7eliaZa3YA6j7x8dCSibRQWpOZZD2S9o/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">亿仓紧固 &nbsp;<span style="color:#da7211; font-weight:bold">邯郸市</span></p>
+	        <p class="fkriqi">2024-10-17 17:24:59</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/nKIHuWlnOCtQtCAAHlmvlv6BkmGSATO0DeVtLGy5SmmrNla0W0gVFkby6DOfDcMGhjYeiaxSaXdszO3ial1C0ZDLWibUmEicB8eLXSmepDpB3nQ/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">螺丝RS &nbsp;<span style="color:#da7211; font-weight:bold">邢台市</span></p>
+	        <p class="fkriqi">2024-10-11 08:46:05</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/UAslIUtp0UN8HCtYNxDoBfkBKxoucK0gpRLw9fOKAKIERqKdKy5B3t38LGguJplOlJeaXk85jyic02k0geJSkRdqOtVQbgRxnh9IVXk9plu0/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">世鹏 &nbsp;<span style="color:#da7211; font-weight:bold">张家口市</span></p>
+	        <p class="fkriqi">2024-10-10 07:19:11</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/ia89MwaRSP6jQc6nCMUdIibbXP4SKbuOGta68zRgibiaxEB92dLq2ibDeE1ia8vtOCP7BXRFB9XM69iaUmbP8KGMFBB0w/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">螺丝库～ &nbsp;<span style="color:#da7211; font-weight:bold">保定市</span></p>
+	        <p class="fkriqi">2024-10-05 15:42:07</p>
+	    </div>
+	</div>
+
+
+	<div class="fk_main">
+	    	    <div class="fk_touxian"><img src="https://thirdwx.qlogo.cn/mmopen/vi_32/9jIoqZaYb1W85bThibafG2BrLTMDtDibVib2sFuLNlJcWM6ichAKDbfQJrn4lCzy2IkEXmaxz2cVvvqU3iafzia9ibRicg/132" width="40" height="40" style="vertical-align: middle;"></div>
+	    	    <div class="fk_rightfz">
+	        <p class="fkname">锴kai &nbsp;<span style="color:#da7211; font-weight:bold"></span></p>
+	        <p class="fkriqi">2024-10-03 13:07:43</p>
+	    </div>
+	</div>
+
+
+
+
+</div>
+
+<style>
+.benanys{color:#000000; padding-left:5px; font-size:14px; padding-right:5px; width:100%; padding-top:10px; text-align:center; margin:0 auto; clear:both;}
+@media (min-width: 992px){
+
+.benanys{ width:92%;}
+}
+</style>
+<div class="benanys">
+
+
+
+<div style="margin:0 auto; width:100%;"><img src="/skins/biaozhunjian/images/renzhensc.gif" style="width:100%"></div>
+
+
+<div style="color:#000000; padding-left:5px; font-size:14px; padding-right:5px; width:92%; padding-top:10px; text-align:center; margin:0 auto; clear:both;">
+
+
+<p><a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank">冀公网安备：13042902000727</a></p>
+<p>增值电信经营许可编号：冀B2-20200386</p>
+<p style="color:#ff0000">广告招商热线：<a style="color:#ff0000" href="tel:13292024300">13292024300</a></p>
+备案号：<a href="http://beian.miit.gov.cn" target="_blank">冀ICP8备20014159号-6</a>
+<p>地址：邯郸市永年区河北铺产业城W10-2</p>
+<p>技术支持：河北阿拉丁网络信息技术服务有限公司</p>
+<p><a target="_blank" title="51la网站统计" href="https://v6.51.la/s/r133cIjDoCu4ZNn"><img src="https://sdk.51.la/icon/4-1.png"></a></p>
+<br>
+<br>
+<br>
+
+
+</div>
+
+</div>
+
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+  wx.config({
+    debug: false,
+    appId: 'wxc8f3666e44ab9d8a',
+    timestamp: 1731230894,
+    nonceStr: 'jqvEKMvWZSj5YJ56',
+    signature: 'a896c0a8a6ca6b18f869b06e98ac7538467bfb04',
+	jsApiList: ['updateAppMessageShareData','updateTimelineShareData', 'onMenuShareTimeline', 'onMenuShareAppMessage', 'onMenuShareQQ','onMenuShareWeibo','openLocation']
+  });
+  wx.ready(function () {
+        // 地理位置接口
+  // 查看地理位置
+
+  document.querySelector('#openLocation').onclick = function () {
+    wx.openLocation({
+      latitude: 36.80957,
+      longitude: 114.508549,
+      name: '邯郸市旺乾紧固件有限公司',
+      address: '地址：河北铺老商城农村信用社背面',
+      scale: 14,
+      infoUrl: 'http://www.luosiqiyeku.com'
+    });
+  };
+		});
+		wx.error(function (res) {
+			//alert(res.errMsg);//错误提示
+		});
+</script>
+<script type="text/javascript">
+    $(".ajaxBut").click(function(){
+		var temp = $(this).find("input[name='cpid']").val();
+        $.ajax({
+            'type':'post',
+            'url':'/?p=597&a=badatel',
+            'dateType':'json',
+            'data':{"cpid":temp,"sjhao":1},
+            'success':function(){
+                //alert('添加成功');
+            }
+        });
+
+    });
+    $(".ajaxBut2").click(function(){
+		var temp4 = $(this).find("input[name='cpid4']").val();
+        $.ajax({
+            'type':'post',
+            'url':'/?p=597&a=badatel',
+            'dateType':'json',
+            'data':{"cpid":temp4,"sjhao":2},
+            'success':function(){
+                //alert('添加成功');
+            }
+        });
+
+    });
+    $(".ajaxBut3").click(function(){
+		var temp3 = $(this).find("input[name='cpid3']").val();
+        $.ajax({
+            'type':'post',
+            'url':'/?p=597&a=badatel',
+            'dateType':'json',
+            'data':{"cpid":temp3,"sjhao":3},
+            'success':function(){
+                //alert('添加成功');
+            }
+        });
+
+    });
+</script>
+
+<link rel="stylesheet" href="/skins/biaozhunjian/css/pc_layer.css">
+<script src="/skins/biaozhunjian/js/layer.js" type="text/javascript"></script>
+<script src="/skins/biaozhunjian/js/clipboard.min.js" type="text/javascript"></script>
+<style>
+.Flex{display: -moz-flex;display: -ms-flex;display: -o-flex;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;-ms-align-items: center;-webkit-box-align: center;-ms-flex-align: center;align-items: center;}
+.ViewCard{border-radius:100px;z-index:1;position:fixed;right:0.2rem;bottom:1.1rem;background-color:#000;color:#fff;width:40px;height:40px;font-size:12px;line-height:15px; font-weight:bold;}
+.ViewCard2{border-radius:100px;z-index:1;position:fixed;right:0.2rem;bottom:1.1rem;background-color:#000;color:#fff;width:40px;height:40px;font-size:12px;line-height:15px; font-weight:bold;}
+</style>
+<span class="ViewCard Flex" style="bottom:250px;display:none;"><a style="color:#FFF;" href="javascript:history.back(1)">返回</a></span>
+<span class="ViewCard Flex ShareClick" style="bottom:100px;display:none;"><a style="color:#FFF;" href="tel:15733006000">平台<br>客服</a></span>
+<span class="ViewCard2 Flex ShareClick" style="bottom:180px;"><a style="color:#FFF;" href="https://www.luosiku.cn/plugin.php?id=xl&amp;high=0">主页</a></span>
+
+<script>
+window.addEventListener("DOMContentLoaded", function() {
+var clipboard = new ClipboardJS(".copy_btn", {
+text: function(e) {
+return e.getAttribute("data-clipboard-content");
+}
+});
+clipboard.on("success", function(e) {
+layer.open({content:"\u606d\u559c\u60a8\uff0c\u590d\u5236\u6210\u529f\uff01",skin: 'msg',time: 2});
+});
+
+clipboard.on("error", function(e) {
+layer.open({content:"\u5f88\u9057\u61be\uff0c\u590d\u5236\u5931\u8d25\uff01",skin: 'msg',time: 2});
+});
+
+});
+
+</script>
+
+
+
+
+
+
+
+<br>
+
+<style>
+.wldbsm { width:100%; position:fixed; bottom:80px; text-align:center; font-size:18px;}
+.wldbsm .scdslun {  padding-top:5px; padding-bottom:5px;padding-right:10px;padding-left:10px; background:#000000; border-radius: 6%; color:#ffffff;}
+.wldbsm .scpeisong { padding-top:5px; padding-bottom:5px;padding-right:10px;padding-left:10px; background:#000000;border-radius: 6%; color:#ffffff;}
+.wldbsm a{color:#ffffff;}
+</style>
+
+<div class="lfooter1">
+<div style="width: 24%; text-align:center; height:auto; margin-top:13px;"><a href="https://www.luosiku.cn/plugin.php?id=xl&amp;high=0"><img src="/skins/biaozhunjian/images/lfanhuishouye.png"></a></div>
+</div>
+<!--焦点图js-->
+<div id="gqqgk" class="gqqgkys">
+ <!--轮播图-->
+<link rel="stylesheet" type="text/css" href="/skins/biaozhunjian/dblunbo/slick.css">
+<script type="text/javascript" src="/skins/biaozhunjian/dblunbo/slick.min.js"></script>
+<!--轮播图-->
+        <div class="bannerlb slider slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3256px; transform: translate3d(-1184px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=3829&amp;a=view&amp;r=46098" tabindex="-1"><img src="/upload/202408/2024080416393379.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=2056&amp;a=view&amp;r=31330" tabindex="-1"><img src="/upload/202409/20240919162502803.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" style="width: 296px;" tabindex="-1"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=1879&amp;a=view&amp;r=7179" tabindex="-1"><img src="/upload/202406/20240623143407138.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" style="width: 296px;" tabindex="-1"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/index.php?p=1294&amp;a=view&amp;r=32348" tabindex="-1"><img src="/upload/202409/20240919162513486.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="3" aria-hidden="false" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=682&amp;a=view&amp;r=43512" tabindex="0"><img src="/upload/202409/20240927095102575.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" style="width: 296px;" tabindex="-1"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=3829&amp;a=view&amp;r=46098" tabindex="-1"><img src="/upload/202408/2024080416393379.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=2056&amp;a=view&amp;r=31330" tabindex="-1"><img src="/upload/202409/20240919162502803.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=1879&amp;a=view&amp;r=7179" tabindex="-1"><img src="/upload/202406/20240623143407138.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/index.php?p=1294&amp;a=view&amp;r=32348" tabindex="-1"><img src="/upload/202409/20240919162513486.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=682&amp;a=view&amp;r=43512" tabindex="-1"><img src="/upload/202409/20240927095102575.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 296px;"><div><div class="unit" style="width: 100%; display: inline-block;"><a href="https://www.luosiqiyeku.com/?p=3829&amp;a=view&amp;r=46098" tabindex="-1"><img src="/upload/202408/2024080416393379.jpg" style="width:100%;height:70px !important;object-fit: unset"></a></div></div></div></div></div></div>
+        <script>
+            $('.bannerlb').slick({
+                dots: false,
+                infinite: true,
+                autoplay: true,
+                autoplaySpeed: 2000,
+                prevArrow:'',
+                nextArrow:''
+            });
+        </script>
+
+
+
+</div>
+<script>
+
+// 将以下代码添加到js入口函数内即可
+//document.addEventListener('touchstart', function() {
+//document.getElementById('audios').play()
+//})
+
+// 将以下代码添加到js入口函数内即可
+// 这里使用了微信自带的WeixinJSBridgeReady事件
+//document.addEventListener('WeixinJSBridgeReady', function() {
+//document.getElementById('audios').play()
+//})
+</script></div><div style="position: fixed; inset: 0px; z-index: 9999; display: none; align-items: center; justify-content: center;"></div><div id="samantha-toast-container"></div><style>
+  .el-image-viewer__wrapper {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2147483649 !important;
+  }
+
+  .el-image-viewer__btn {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    opacity: .8;
+    cursor: pointer;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+  }
+
+  .el-image-viewer__btn .el-icon {
+    font-size: inherit;
+    cursor: pointer
+  }
+
+  .el-image-viewer__close {
+    top: 60px;
+    right: 40px;
+    width: 40px;
+    height: 40px;
+    font-size: 40px
+  }
+
+  .el-image-viewer__canvas {
+    position: static;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+  }
+
+  .el-image-viewer__actions {
+    left: 50%;
+    bottom: 30px;
+    transform: translateX(-50%);
+    width: 282px;
+    height: 44px;
+    padding: 0 23px;
+    background-color: #333333;
+    border-color: #fff;
+    border-radius: 22px
+  }
+
+  .el-image-viewer__actions__inner {
+    width: 100%;
+    height: 100%;
+    text-align: justify;
+    cursor: default;
+    font-size: 23px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+  }
+
+  .el-image-viewer__actions__inner i:nth-child(3),
+  .el-image-viewer__actions__inner i:nth-child(4),
+  .el-image-viewer__actions__inner i:nth-child(5) {
+    display: none;
+  }
+
+  .el-image-viewer__prev {
+    top: 50%;
+    transform: translateY(-50%);
+    left: 40px;
+    width: 44px;
+    height: 44px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #333333;
+    border-color: #fff
+  }
+
+  .el-image-viewer__next {
+    top: 50%;
+    transform: translateY(-50%);
+    right: 40px;
+    text-indent: 2px;
+    width: 44px;
+    height: 44px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #333333;
+    border-color: #fff
+  }
+
+  .el-image-viewer__close {
+    width: 44px;
+    height: 44px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #333333;
+    border-color: #fff
+  }
+
+  .el-image-viewer__mask {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: .5;
+    background: #000
+  }
+
+  .viewer-fade-enter-active {
+    -webkit-animation: viewer-fade-in var(--el-transition-duration);
+    animation: viewer-fade-in var(--el-transition-duration)
+  }
+
+  .viewer-fade-leave-active {
+    -webkit-animation: viewer-fade-out var(--el-transition-duration);
+    animation: viewer-fade-out var(--el-transition-duration)
+  }
+
+  @-webkit-keyframes viewer-fade-in {
+    0% {
+      transform: translate3d(0, -20px, 0);
+      opacity: 0
+    }
+
+    100% {
+      transform: translate3d(0, 0, 0);
+      opacity: 1
+    }
+  }
+
+  @keyframes viewer-fade-in {
+    0% {
+      transform: translate3d(0, -20px, 0);
+      opacity: 0
+    }
+
+    100% {
+      transform: translate3d(0, 0, 0);
+      opacity: 1
+    }
+  }
+
+  @-webkit-keyframes viewer-fade-out {
+    0% {
+      transform: translate3d(0, 0, 0);
+      opacity: 1
+    }
+
+    100% {
+      transform: translate3d(0, -20px, 0);
+      opacity: 0
+    }
+  }
+
+  @keyframes viewer-fade-out {
+    0% {
+      transform: translate3d(0, 0, 0);
+      opacity: 1
+    }
+
+    100% {
+      transform: translate3d(0, -20px, 0);
+      opacity: 0
+    }
+  }
+
+  .el-icon-loading {
+    -webkit-animation: rotating 2s linear infinite;
+    animation: rotating 2s linear infinite
+  }
+
+  .el-icon--right {
+    margin-left: 5px
+  }
+
+  .el-icon--left {
+    margin-right: 5px
+  }
+
+  @-webkit-keyframes rotating {
+    0% {
+      transform: rotateZ(0)
+    }
+
+    100% {
+      transform: rotateZ(360deg)
+    }
+  }
+
+  @keyframes rotating {
+    0% {
+      transform: rotateZ(0)
+    }
+
+    100% {
+      transform: rotateZ(360deg)
+    }
+  }
+
+  .el-icon {
+    --color: inherit;
+    height: 1em;
+    width: 1em;
+    line-height: 1em;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    fill: currentColor;
+    color: var(--color);
+    font-size: inherit
+  }
+
+  .el-icon.is-loading {
+    -webkit-animation: rotating 2s linear infinite;
+    animation: rotating 2s linear infinite
+  }
+
+  .el-icon svg {
+    height: 1em;
+    width: 1em
+  }
+</style><div id="el-popper-container-107"></div><div class="el-overlay" style="z-index: 2147483647; display: none;"><div role="dialog" aria-modal="true" aria-labelledby="el-id-107-3" aria-describedby="el-id-107-4" class="el-overlay-dialog"></div></div><div class="el-overlay" style="z-index: 2147483647; display: none;"><div role="dialog" aria-modal="true" aria-labelledby="el-id-107-5" aria-describedby="el-id-107-6" class="el-overlay-dialog"></div></div><div class="el-overlay" style="z-index: 2147483647; display: none;"><div role="dialog" aria-modal="true" aria-labelledby="el-id-107-7" aria-describedby="el-id-107-8" class="el-overlay-dialog"></div></div><doubao-ai-csui id="4d8fb2496b3d4c52817b01ac08b9f4d2" data-host-id="4c3458e2-a7b5-49bd-a3bd-2f0bdec02596"></doubao-ai-csui><div id="doubao-ai-assistant" aria-label="flow-ai-assistant" class="flow-ai-select-bar-enabled" aria-description="flow-ai-select-bar-enabled" style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; overflow: hidden;"></div></body><div style="all: initial;"><div id="__fyzs__" class="notranslate" style="all: initial;"></div></div></html>
